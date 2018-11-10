@@ -1,4 +1,4 @@
 token=NTEwODM4NTM4NDk3OTQ5Njk3.DsiLCQ.uOxVnCAYr8HiObaIHwDEZ_AuM4U
 owner=507647817280389126
-prefix=6play
+prefix=6
 stayinchannel=true
